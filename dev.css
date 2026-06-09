@@ -1,0 +1,68 @@
+.mae{
+    font-weight:bold 4px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.box-1{
+    font-weight: bold 1px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+}
+  .box-2{
+    font-weight:bold 1px;
+    background-color: aqua;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+  }
+  .box-3{
+    font-weight: bold 1px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+  }
+  .reduz{
+        font-weight: bold 1px;
+    background-color:darkkhaki;
+    height: 75px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    align-items: center;
+
+  }
+  .mini{
+    font-weight: bold 1px;
+    background-color:darkblue;
+    height: 75px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .box-3.l{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .l{
+    font-weight: bold 1px;
+    background-color: pink;
+    width:54px;
+    height:150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+  }
